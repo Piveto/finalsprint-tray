@@ -7,6 +7,26 @@ Uma breve descrição do seu projeto.
 - [Node.js](https://nodejs.org/) (versão 14 ou superior)
 - [npm](https://www.npmjs.com/) (geralmente incluído com o Node.js) ou [Yarn](https://yarnpkg.com/)
 
+## Tela de Login com autenticação JWT
+
+![Tela de Login](images/login.png)
+
+## Tela de Listagem de FAQs
+
+![Tela de Listagem de FAQs](images/ListagemFAQ.png)
+
+## Tela de Cadastro de FAQs
+
+![Tela de Cadastro de FAQs](images/CadastroFAQ.png)
+
+## Tela de Cadastro de Administradores
+
+![Tela de Cadastro de Administradores](images/CadastroAdmin.png)
+
+## Tela de ChatBot
+
+![Tela de ChatBot](images/ChatBot.png)
+
 ## Instalação
 
 ### Passo 1: Clone o repositório
@@ -14,12 +34,3 @@ Uma breve descrição do seu projeto.
 ```bash
 git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
 cd NOME_DO_REPOSITORIO
-```
-### Passo 2: Instale as dependências
-```bash
-npm install
-```
-### Passo 3: Iniciar servidor desenvolvimento
-```bash
-npm run dev
-```
