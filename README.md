@@ -1,6 +1,6 @@
-# Nome do Projeto
+# FAQTRAY
 
-Uma breve descrição do seu projeto.
+FaqBot - Um projeto desenvolvido para gerenciar FAQs e Chat-Bot para uma loja de e-commerce. Ele inclui funcionalidades como cadastro de FAQs, cadastro de administradores, chatbot e um tour interativo para novos usuários. Este projeto foi criado utilizando Vue.js com um design responsivo e moderno.
 
 ## Requisitos
 
