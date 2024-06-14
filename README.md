@@ -30,15 +30,6 @@ FaqBot - Um projeto desenvolvido para gerenciar FAQs e Chat-Bot para uma loja de
 ## Instalação
 
 ### Passo 1: Clone o repositório
-
-```bash
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
-cd NOME_DO_REPOSITORIO
-```
-
-## Instalação
-
-### Passo 1: Clone o repositório
 ```base
 git clone https://github.com/Piveto/finalsprint-tray.git
 ```
