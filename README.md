@@ -11,7 +11,7 @@ FaqBot - Um projeto desenvolvido para gerenciar FAQs e Chat-Bot para uma loja de
 
 ![Tela de Login](images/login.png)
 
-## Tela de Listagem de FAQs
+## Tela de Listagem de FAQs com paginação
 
 ![Tela de Listagem de FAQs](images/ListagemFAQ.png)
 
