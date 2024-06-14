@@ -19,7 +19,7 @@ FaqBot - Um projeto desenvolvido para gerenciar FAQs e Chat-Bot para uma loja de
 
 ![Tela de Cadastro de FAQs](images/CadastroFAQ.png)
 
-## Tela de Cadastro de Administradores
+## Tela de Cadastro e exclusão de Administradores
 
 ![Tela de Cadastro de Administradores](images/CadastroAdmin.png)
 
